@@ -1,0 +1,41 @@
+# MSBD566 - Predictive Modeling and Analytics
+
+This repository contains Assignment 1 for the MSBD566 course at Meharry. The assignment demonstrates data exploration and analysis of Nashville’s Air Quality Index (AQI) and pollen data using Python.
+
+## Assignment Overview
+
+### Part 1: Pandas Data Analysis
+
+#### AQI Analysis
+- Plot AQI over time
+- Plot AQI categories by year (stacked bar chart)
+- Count the number of times AQI exceeds 120
+- Identify dates when AQI reached "Unhealthy" or worse
+
+#### Pollen Analysis
+- Identify the most frequent pollen type
+- Visualize pollen frequency using bar charts and scatterplots
+
+#### Comfort Evaluation
+- Open-ended discussion: Is Nashville comfortable to live in based on AQI and pollen data?
+
+#### Vectorization Problem
+- Compare manual loop vs. pandas groupby().mean() for mean AQI by category
+- Measure and compare processing times
+
+### Part 2: GitHub Practice
+
+- Created repository `MSBD566`
+- Uploaded notebook, dataset, and this README
+- Practiced version control and documentation
+
+## Requirements
+
+- Python 3
+- pandas
+- numpy
+- matplotlib
+
+To install required packages, run:
+
+_Last edited 09/18/2025 by Emirrah Sanders_
